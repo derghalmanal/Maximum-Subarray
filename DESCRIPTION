@@ -1,0 +1,10 @@
+Package: maxSubarray
+Type: Package
+Title: Maximum Subarray Problem 
+Version: 1.0
+Date: 2025-03-28
+Authors: Manal Derghal - Takwa Ben Romadhe - Khalil Ounis
+Description: This package implements an R library for solving the Maximum Subarray Problem by comparing the Naive Method and Kadane's Algorithm for both 1D and 2D arrays.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.14)
+LinkingTo: Rcpp
